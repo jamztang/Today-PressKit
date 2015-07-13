@@ -1,0 +1,34 @@
+# Today Release Notes 1.0
+
+Today app is a patiently crafted Pomodoro Timer + Personal Daily Target List.
+To improve on the Pomodoro Technique®, I consider the app should focus on three major areas that should provide to further improve our productivity.
+
+## Plan:
+Easily listing out your daily achievables and customize sessions length.
+
+## Focus:
+One tap to start timer, and have delightful notification when the session is done.
+
+## Review:
+Should be able to quickly glance at your daily progress, and optionally logs the event into your selected calendar.
+
+---
+
+## Feature Overview
+
+When you finish your day, you can simply start over by pulling down from the dashboard to clear the stats.
+
+I've also been put a lot of effort on those finishing effects and putting on screen tips right at the spot without blocking your flow.
+
+The Apple Watch version is also great for quick glance and basic time session control, and it syncs instantly with your iPhone companion app.
+
+---
+
+## Background
+
+Been quitting my full time job and pushing everything else for 3 months, I've been able to work while traveling. I hope you would enjoy the app help me make Today even better :)
+
+---
+
+## Disclaimer
+“the Pomodoro Technique® is a registered trademark by Francesco Cirillo”

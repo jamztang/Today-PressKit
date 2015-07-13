@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>Logos/today-ios-icon</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6A01A" offset="0%"></stop>
+            <stop stop-color="#F6A11B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#44D400" offset="0%"></stop>
+            <stop stop-color="#29C102" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#47A6DA" offset="0%"></stop>
+            <stop stop-color="#4C9ECC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FF5D4D" offset="0%"></stop>
+            <stop stop-color="#FA403B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.500198143" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Logos/today-ios-icon" sketch:type="MSArtboardGroup">
+            <g id="Today-/-Watch-/-Icon-2" sketch:type="MSLayerGroup">
+                <path d="M62.7555,0 L117.2445,0 C135.315,0 144.348,0 154.0755,3.075 C164.6955,6.9405 173.0595,15.3045 176.925,25.9245 C180,35.6505 180,44.6865 180,62.7555 L180,117.2445 C180,135.315 180,144.348 176.925,154.0755 C173.0595,164.6955 164.6955,173.0595 154.0755,176.9235 C144.348,180 135.315,180 117.2445,180 L62.7555,180 C44.685,180 35.6505,180 25.9245,176.9235 C15.3045,173.0595 6.9405,164.6955 3.075,154.0755 C0,144.348 0,135.315 0,117.2445 L0,62.7555 C0,44.6865 0,35.6505 3.075,25.9245 C6.9405,15.3045 15.3045,6.9405 25.9245,3.075 C35.6505,0 44.685,0 62.7555,0 L62.7555,0" id="Icon-Shape" fill="#9BA0AA" sketch:type="MSShapeGroup"></path>
+                <path d="M63.66365,3 L116.33635,3 C133.8045,3 142.5364,3 151.93965,5.9725 C162.20565,9.70915 170.29085,17.79435 174.0275,28.06035 C177,37.46215 177,46.19695 177,63.66365 L177,116.33635 C177,133.8045 177,142.5364 174.0275,151.93965 C170.29085,162.20565 162.20565,170.29085 151.93965,174.02605 C142.5364,177 133.8045,177 116.33635,177 L63.66365,177 C46.1955,177 37.46215,177 28.06035,174.02605 C17.79435,170.29085 9.70915,162.20565 5.9725,151.93965 C3,142.5364 3,133.8045 3,116.33635 L3,63.66365 C3,46.19695 3,37.46215 5.9725,28.06035 C9.70915,17.79435 17.79435,9.70915 28.06035,5.9725 C37.46215,3 46.1955,3 63.66365,3 L63.66365,3" id="Icon-Shape-2" fill="#262628" sketch:type="MSShapeGroup"></path>
+                <path d="M65.47995,9 L114.52005,9 C130.7835,9 138.9132,9 147.66795,11.7675 C157.22595,15.24645 164.75355,22.77405 168.2325,32.33205 C171,41.08545 171,49.21785 171,65.47995 L171,114.52005 C171,130.7835 171,138.9132 168.2325,147.66795 C164.75355,157.22595 157.22595,164.75355 147.66795,168.23115 C138.9132,171 130.7835,171 114.52005,171 L65.47995,171 C49.2165,171 41.08545,171 32.33205,168.23115 C22.77405,164.75355 15.24645,157.22595 11.7675,147.66795 C9,138.9132 9,130.7835 9,114.52005 L9,65.47995 C9,49.21785 9,41.08545 11.7675,32.33205 C15.24645,22.77405 22.77405,15.24645 32.33205,11.7675 C41.08545,9 49.2165,9 65.47995,9 L65.47995,9" id="Icon-Shape-3" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-35" fill="#3B3B3B" sketch:type="MSShapeGroup" cx="89.5" cy="89.5" r="74.75"></circle>
+                <g id="Passbook-2" transform="translate(43.500000, 43.500000)" sketch:type="MSShapeGroup">
+                    <rect id="Orange" fill="url(#linearGradient-1)" x="0" y="74.8188944" width="72.8333333" height="23" rx="6"></rect>
+                    <rect id="Green" fill="url(#linearGradient-2)" x="0" y="49.8333333" width="95.8471521" height="23" rx="6"></rect>
+                    <rect id="Blue" fill="url(#linearGradient-3)" x="0" y="24.9166667" width="72.8333333" height="23" rx="6"></rect>
+                    <rect id="Red" fill="url(#linearGradient-4)" x="0" y="0" width="95.8471521" height="23" rx="6"></rect>
+                </g>
+                <path d="M177,72.9190468 L177,116.33635 C177,133.8045 177,142.5364 174.0275,151.93965 C170.29085,162.20565 162.20565,170.29085 151.93965,174.02605 C142.5364,177 133.8045,177 116.33635,177 L63.66365,177 C46.1955,177 37.46215,177 28.06035,174.02605 C17.79435,170.29085 9.70915,162.20565 5.9725,151.93965 C3.08851537,142.816411 3.00263582,134.325134 3.00007849,117.873863 C25.1656226,90.2419925 88.1536177,71.0891341 162.041593,72.3788535 C167.08493,72.4668853 172.074191,72.6483278 177,72.9190468 Z" id="Oval-37" fill-opacity="0.189999998" fill="url(#linearGradient-5)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
