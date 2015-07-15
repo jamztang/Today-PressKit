@@ -3,47 +3,19 @@
     <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
     <title>Logos/today-watch-icon</title>
     <desc>Created with Sketch Beta.</desc>
-    <defs>
-        <circle id="path-1" cx="42" cy="42" r="42"></circle>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#F6A01A" offset="0%"></stop>
-            <stop stop-color="#F6A11B" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#44D400" offset="0%"></stop>
-            <stop stop-color="#29C102" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#47A6DA" offset="0%"></stop>
-            <stop stop-color="#4C9ECC" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
-            <stop stop-color="#FF5D4D" offset="0%"></stop>
-            <stop stop-color="#FA403B" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" stop-opacity="0.500198143" offset="100%"></stop>
-        </linearGradient>
-    </defs>
+    <defs></defs>
     <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Logos/today-watch-icon" sketch:type="MSArtboardGroup">
-            <g id="Today-/-Watch-/-Icon" sketch:type="MSLayerGroup">
-                <mask id="mask-2" sketch:name="Mask" fill="white">
-                    <use xlink:href="#path-1"></use>
-                </mask>
-                <use id="Mask" fill="#444444" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-                <circle id="Oval-35" fill="#444444" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="42" cy="42" r="42"></circle>
-                <circle id="Oval-35" fill="#3B3B3B" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="42" cy="42" r="39"></circle>
-                <g id="Passbook-2" mask="url(#mask-2)" sketch:type="MSShapeGroup">
-                    <g transform="translate(18.000000, 18.000000)">
-                        <rect id="Orange" fill="url(#linearGradient-3)" x="0" y="39.0359449" width="38" height="12" rx="4"></rect>
-                        <rect id="Green" fill="url(#linearGradient-4)" x="0" y="26" width="50.0072098" height="12" rx="4"></rect>
-                        <rect id="Blue" fill="url(#linearGradient-5)" x="0" y="13" width="38" height="12" rx="4"></rect>
-                        <rect id="Red" fill="url(#linearGradient-6)" x="0" y="0" width="50.0072098" height="12" rx="4"></rect>
+            <g id="WatchIcon" sketch:type="MSLayerGroup">
+                <g id="Today-/-Watch-/-Icon" sketch:type="MSShapeGroup">
+                    <circle id="Oval-35" fill="#202020" cx="42" cy="42" r="42"></circle>
+                    <g id="Passbook-2" transform="translate(18.000000, 18.000000)">
+                        <rect id="Orange" fill="#F6A01A" x="0" y="39" width="38" height="11" rx="3"></rect>
+                        <rect id="Green" fill="#44D400" x="0" y="26" width="50" height="11" rx="3"></rect>
+                        <rect id="Blue" fill="#47A6DA" x="0" y="13" width="38" height="11" rx="3"></rect>
+                        <rect id="Red" fill="#FF5D4D" x="0" y="0" width="50" height="11" rx="3"></rect>
                     </g>
                 </g>
-                <path d="M79.9727458,33.0694461 C80.6446297,35.9373918 81,38.9271953 81,42 C81,63.5391052 63.5391052,81 42,81 C23.3171726,81 7.70265727,67.8629945 3.88994864,50.3224783 C18.9675268,39.494058 47.3921993,32.5007135 79.8477876,33.0672279 C79.8894474,33.0679551 79.9311002,33.0686945 79.9727458,33.0694461 Z" id="Oval-36" fill-opacity="0.189999998" fill="url(#linearGradient-7)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
             </g>
         </g>
     </g>
