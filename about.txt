@@ -1,6 +1,18 @@
 # Today Release Notes 1.0
 
 Today app is a patiently crafted Pomodoro Timer + Personal Daily Target List.
+
+Main Features:
+- Customizable Timer
+- Review Dashboard
+- Times up notification
+- Auto enter break session
+- Force complete/Discard session
+
+Pro Features:
+- Calendar Integration
+- More slots
+
 To improve on the Pomodoro Technique®, I consider the app should focus on three major areas that should provide to further improve our productivity.
 
 ## Plan:
